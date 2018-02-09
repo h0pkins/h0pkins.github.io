@@ -8,7 +8,7 @@ relative_permalinks:
 title:               escapology done wrong
 tagline:             'ein Ausbruchsversuch'
 description:         ''
-url:                 
+url:                 https://h0pkins.github.io
 baseurl:             'https://h0pkins.github.io'
 paginate:            5
 
